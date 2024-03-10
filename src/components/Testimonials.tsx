@@ -3,7 +3,7 @@ export default function Testimonials() {
     <div className="relative pt-24 pb-32 bg-white overflow-hidden">
       <div className="relative z-10 container px-4 mx-auto">
         <h2
-          className="mb-16 text-6xl md:text-6xl font-bold font-heading text-center tracking-px-n leading-tight"
+          className="mb-16 text-5xl md:text-6xl font-bold font-heading text-center tracking-px-n leading-tight"
           data-config-id="auto-txt-1-1"
         >
           Testemunhos inspiradores de leitores que transformaram suas vidas
